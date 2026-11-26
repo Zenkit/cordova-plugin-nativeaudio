@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-nativeaudio",
-  "version": "3.0.9",
+  "name": "@zenkit-dev/cordova-plugin-nativeaudio",
+  "version": "3.0.9-dev.2",
   "description": "Cordova/PhoneGap Plugin for low latency Native Audio Playback, must have for HTML5 games",
   "cordova": {
     "id": "cordova-plugin-nativeaudio",
@@ -9,10 +9,7 @@
       "ios"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/floatinghotpot/cordova-plugin-nativeaudio.git"
-  },
+  "repository": "https://github.com/zenkit/cordova-plugin-nativeaudio.git",
   "bugs": {
     "url": "https://github.com/floatinghotpot/cordova-plugin-nativeaudio/issues"
   },
